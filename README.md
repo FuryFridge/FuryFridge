@@ -2,7 +2,6 @@
 [![MasterHead](header.png)](https://github.com/FuryFridge)
 
 I'm a Bulgarian beginner programmer. Moved from Russia, Kaliningrad to Bulgaria, Sofia. My main language is Python, but also some of R language. Interested in Data Science, Machine Learning and focused on practicing my skills. 
-
 Finished Immanuel Kant Baltic Federal University in Russia, Kaliningrad. Bachelor's degree in "Integrated information and communication systems and technologies. Multichannel telecommunication systems." 
 
   • Probability and Statistics
@@ -12,6 +11,7 @@ Finished Immanuel Kant Baltic Federal University in Russia, Kaliningrad. Bachelo
   • Telecommunications system design and diagnostics
   
   • Maintenance of radio reception and transmission and antenna feed devices, fixed, satellite, relay, and mobile networks and digital televisions systems
+
 
 Stack of technologies:
  1. Python
