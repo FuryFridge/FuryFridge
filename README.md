@@ -15,6 +15,7 @@ Finished Immanuel Kant Baltic Federal University in Russia, Kaliningrad. Bachelo
   
 Stack of technologies:
  1. Python
+ 
     • Base (NumPy, Pandas, Matplotlib, Seaborn, SciPy, tqdm)
     
     • WebScraping (bs4, selenium, requests, lxml)
