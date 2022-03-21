@@ -26,6 +26,7 @@ Stack of technologies:
  3. R language
  4. Linux administration
  5. Git
+
 IDE: VS Code, Jupyter notebook, Pycharm
 
 Would like to collaborate with other people on a project. Feel free to text me via email: chankovyp@gmail.com
