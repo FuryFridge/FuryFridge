@@ -1,4 +1,5 @@
 # README
+[header.png]
 HI! ^_^
 
 My name is Yuriy. I'm a Bulgarian beginner programmer. Moved from Russia, Kaliningrad to Bulgaria, Sofia. My main language is Python, but also some of R language. Interested in Data Science, Machine Learning and focused on practicing my skills. 
