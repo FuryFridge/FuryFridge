@@ -13,7 +13,7 @@ Finished Immanuel Kant Baltic Federal University in Russia, Kaliningrad. Bachelo
   • Maintenance of radio reception and transmission and antenna feed devices, fixed, satellite, relay, and mobile networks and digital televisions systems
 
 ---
-Stack of technologies:
+**Stack of technologies**:
  1. Python
  
     • Base (NumPy, Pandas, Matplotlib, Seaborn, SciPy, tqdm)
