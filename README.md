@@ -29,4 +29,4 @@ Stack of technologies:
 
 IDE: VS Code, Jupyter notebook, Pycharm
 
-Would like to collaborate with other people on a project. Feel free to text me via email: chankovyp@gmail.com
+Would like to collaborate with other people on a project. Feel free to text me via email: [chankovyp@gmail.com](mailto:chankovyp@gmail.com)
